@@ -1,0 +1,1 @@
+# Run Newman (Postman CLI) in CI
