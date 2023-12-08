@@ -4,9 +4,9 @@
     "description": "Run Newman (Postman CLI) in CI",
     "repository": {
         "type": "git",
-        "url": "https://github.com/enotramone/postman-newman-ci"
+        "url": "https://github.com/adequatica/postman-newman-ci"
     },
-    "author": "Andrey Enin <enotramone@gmail.com>",
+    "author": "Andrey Enin",
     "license": "MIT",
     "engines": {
         "node": ">=12"
